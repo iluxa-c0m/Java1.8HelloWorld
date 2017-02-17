@@ -9,6 +9,8 @@ package org.gradle.support;
  *
  * third
  */
+
+
 public class TestPlugin {
 
 }
